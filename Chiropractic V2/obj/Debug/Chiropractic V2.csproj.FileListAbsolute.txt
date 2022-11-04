@@ -1,0 +1,418 @@
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Database.cs
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Chiropractic V2.exe.config
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Chiropractic V2.exe
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Chiropractic V2.pdb
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.BonusSkins.v21.1.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Data.Desktop.v21.1.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Printing.v21.1.Core.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Sparkline.v21.1.Core.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Utils.v21.1.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraEditors.v21.1.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Pdf.v21.1.Core.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Pdf.v21.1.Drawing.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.RichEdit.v21.1.Core.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraTreeList.v21.1.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Images.v21.1.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Office.v21.1.Core.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Data.Desktop.v21.1.xml
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Utils.v21.1.xml
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Sparkline.v21.1.Core.xml
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraBars.v21.1.xml
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraEditors.v21.1.xml
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Printing.v21.1.Core.xml
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraGrid.v21.1.xml
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraLayout.v21.1.xml
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraPrinting.v21.1.xml
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraScheduler.v21.1.xml
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.Desktop.xml
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraScheduler.v21.1.Core.xml
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Pdf.v21.1.Core.xml
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Pdf.v21.1.Drawing.xml
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.RichEdit.v21.1.Core.xml
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraTreeList.v21.1.xml
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Office.v21.1.Core.xml
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.Utils.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.Utils.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.Utils.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.Utils.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.Sparkline.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.XtraBars.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.XtraEditors.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.Printing.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.XtraGrid.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.XtraLayout.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.XtraPrinting.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraScheduler.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraScheduler.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraScheduler.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.XtraScheduler.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.XtraScheduler.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.Pdf.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.RichEdit.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.XtraTreeList.v21.1.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.Office.v21.1.Core.resources.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Deserved.resources
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.DesservedType.resources
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Form1.resources
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Backup.resources
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Des.resources
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Emp.resources
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Employee.resources
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Load.resources
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_LoadToday.resources
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Metting.resources
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_NewPatient.resources
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Pass.resources
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Properties.Resources.resources
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Splash.resources
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.csproj.GenerateResource.cache
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.exe.licenses
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.csproj.CoreCompileInputs.cache
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.csproj.CopyComplete
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.exe
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.pdb
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\stdole.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Printing.resources
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Settings_Report.resources
+C:\Users\faruk\Google Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.csproj.AssemblyReference.cache
+\\Mac\Home\My Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.csprojAssemblyReference.cache
+\\Mac\Home\My Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Deserved.resources
+\\Mac\Home\My Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.DesservedType.resources
+\\Mac\Home\My Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Form1.resources
+\\Mac\Home\My Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Backup.resources
+\\Mac\Home\My Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Des.resources
+\\Mac\Home\My Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Emp.resources
+\\Mac\Home\My Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Employee.resources
+\\Mac\Home\My Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Load.resources
+\\Mac\Home\My Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_LoadToday.resources
+\\Mac\Home\My Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Metting.resources
+\\Mac\Home\My Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_NewPatient.resources
+\\Mac\Home\My Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Printing.resources
+\\Mac\Home\My Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Pass.resources
+\\Mac\Home\My Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Settings_Report.resources
+\\Mac\Home\My Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Splash.resources
+\\Mac\Home\My Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.csproj.GenerateResource.cache
+\\Mac\Home\My Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.exe
+\\Mac\Home\My Drive\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.pdb
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Database.cs
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Chiropractic V2.exe.config
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Chiropractic V2.exe
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Chiropractic V2.pdb
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.BonusSkins.v21.2.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Data.v21.2.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Utils.v21.2.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraBars.v21.2.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraGrid.v21.2.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraLayout.v21.2.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraPrinting.v21.2.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraScheduler.v21.2.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.Dmf.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.Smo.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.RichEdit.v21.2.Core.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraTreeList.v21.2.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Images.v21.2.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\stdole.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Office.v21.2.Core.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Data.v21.2.xml
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Utils.v21.2.xml
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraBars.v21.2.xml
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraGrid.v21.2.xml
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraLayout.v21.2.xml
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraPrinting.v21.2.xml
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraScheduler.v21.2.xml
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.Desktop.xml
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraScheduler.v21.2.Core.xml
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.RichEdit.v21.2.Core.xml
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraTreeList.v21.2.xml
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Office.v21.2.Core.xml
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraGrid.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraGrid.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraGrid.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.XtraGrid.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraLayout.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraLayout.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraLayout.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.XtraLayout.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraPrinting.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraPrinting.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraPrinting.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.XtraPrinting.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraScheduler.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraScheduler.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.XtraScheduler.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.RichEdit.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.RichEdit.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.RichEdit.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.RichEdit.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraTreeList.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraTreeList.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraTreeList.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.XtraTreeList.v21.2.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.Office.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.Office.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.Office.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\bin\Debug\ru\DevExpress.Office.v21.2.Core.resources.dll
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.csproj.AssemblyReference.cache
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Deserved.resources
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.DesservedType.resources
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Form1.resources
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Backup.resources
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Des.resources
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Emp.resources
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Employee.resources
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Load.resources
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_LoadToday.resources
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Metting.resources
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_NewPatient.resources
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Printing.resources
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Pass.resources
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Properties.Resources.resources
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Settings_Report.resources
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Splash.resources
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.csproj.GenerateResource.cache
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.exe.licenses
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.csproj.CoreCompileInputs.cache
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.csproj.CopyComplete
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.exe
+\\Mac\Home\Drive'ım\Visiual Stdio C#\Chiropracitc Center\Chiropractic Center V2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.pdb
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.csproj.AssemblyReference.cache
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.csproj.SuggestedBindingRedirects.cache
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.exe.config
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Deserved.resources
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.DesservedType.resources
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Form1.resources
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Backup.resources
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Des.resources
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Emp.resources
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Employee.resources
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Load.resources
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_LoadToday.resources
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Metting.resources
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_NewPatient.resources
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Frm_Printing.resources
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Pass.resources
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Properties.Resources.resources
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Settings_Report.resources
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic_V2.Splash.resources
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.csproj.GenerateResource.cache
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.exe.licenses
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.csproj.CoreCompileInputs.cache
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.exe
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.pdb
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\Database.cs
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\Chiropractic V2.exe.config
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\Chiropractic V2.exe
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\Chiropractic V2.pdb
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.Desktop.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraScheduler.v22.1.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Images.v22.1.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraScheduler.v22.1.xml
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.Desktop.xml
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraScheduler.v22.1.Core.xml
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraScheduler.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraScheduler.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraScheduler.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraScheduler.v22.1.Core.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\omerfaruk\Desktop\Chiropractic Center V2 2\Chiropractic V2\Chiropractic V2\obj\Debug\Chiropractic V2.csproj.CopyComplete

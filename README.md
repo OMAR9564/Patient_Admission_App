@@ -14,7 +14,7 @@
 
   - SqlExpress2012
 
-Setup link:https://drive.google.com/drive/folders/15QqFdZxxxSUbo9LlPeIkBDxSjrOGu71f?usp=share_link
+Setup link:https://drive.google.com/file/d/15NdonSPTSsiFYKiMuj9xcVgulakc4Hm1/view?usp=share_link
 
 [![mkfeSa.md.png](https://iili.io/mkfeSa.md.png)](https://freeimage.host/i/mkfeSa)
 

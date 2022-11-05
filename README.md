@@ -16,7 +16,7 @@
 
 Setup link:
 
-![alt text](https://i.imgur.com/q2Qdjno)
+[![mkfeSa.md.png](https://iili.io/mkfeSa.md.png)](https://freeimage.host/i/mkfeSa)
 
 ![](Chiropractic_Center_V2%20a61bf762ab2d45b08d737edd264068d6/Untitled%201.png)
 

@@ -16,7 +16,7 @@
 
 Setup link:
 
-![](Chiropractic_Center_V2%20a61bf762ab2d45b08d737edd264068d6/Untitled.png)
+![](https://i.imgur.com/q2Qdjno)
 
 ![](Chiropractic_Center_V2%20a61bf762ab2d45b08d737edd264068d6/Untitled%201.png)
 

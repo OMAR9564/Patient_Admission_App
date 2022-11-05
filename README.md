@@ -14,30 +14,30 @@
 
   - SqlExpress2012
 
-Setup link:
+Setup link:https://drive.google.com/drive/folders/15QqFdZxxxSUbo9LlPeIkBDxSjrOGu71f?usp=share_link
 
 [![mkfeSa.md.png](https://iili.io/mkfeSa.md.png)](https://freeimage.host/i/mkfeSa)
 
-![](Chiropractic_Center_V2%20a61bf762ab2d45b08d737edd264068d6/Untitled%201.png)
+[![mkBCkG.md.png](https://iili.io/mkBCkG.md.png)](https://freeimage.host/i/mkBCkG)
 
-![](Chiropractic_Center_V2%20a61bf762ab2d45b08d737edd264068d6/Untitled%202.png)
+[![mkBYYu.md.png](https://iili.io/mkBYYu.md.png)](https://freeimage.host/i/mkBYYu)
 
-![](Chiropractic_Center_V2%20a61bf762ab2d45b08d737edd264068d6/Untitled%203.png)
+[![mkCNK7.md.png](https://iili.io/mkCNK7.md.png)](https://freeimage.host/i/mkCNK7)
 
-![](Chiropractic_Center_V2%20a61bf762ab2d45b08d737edd264068d6/Untitled%204.png)
+[![mknXea.md.png](https://iili.io/mknXea.md.png)](https://freeimage.host/i/mknXea)
 
-![](Chiropractic_Center_V2%20a61bf762ab2d45b08d737edd264068d6/Untitled%205.png)
-
-![](Chiropractic_Center_V2%20a61bf762ab2d45b08d737edd264068d6/Untitled%206.png)
-
-![](Chiropractic_Center_V2%20a61bf762ab2d45b08d737edd264068d6/Untitled%207.png)
-
-![](Chiropractic_Center_V2%20a61bf762ab2d45b08d737edd264068d6/Untitled%208.png)
-
-![](Chiropractic_Center_V2%20a61bf762ab2d45b08d737edd264068d6/Untitled%209.png)
-
-![](Chiropractic_Center_V2%20a61bf762ab2d45b08d737edd264068d6/Untitled%2010.png)
-
-![](Chiropractic_Center_V2%20a61bf762ab2d45b08d737edd264068d6/Untitled%2011.png)
-
+[![mko0TG.md.png](https://iili.io/mko0TG.md.png)](https://freeimage.host/i/mko0TG)
+  
+[![mkxhVR.md.png](https://iili.io/mkxhVR.md.png)](https://freeimage.host/i/mkxhVR)
+  
+[![mkzd0B.md.png](https://iili.io/mkzd0B.md.png)](https://freeimage.host/i/mkzd0B)
+  
+[![mkzzfp.md.png](https://iili.io/mkzzfp.md.png)](https://freeimage.host/i/mkzzfp)
+  
+[![mkzNXj.md.png](https://iili.io/mkzNXj.md.png)](https://freeimage.host/i/mkzNXj)
+  
+[![mkzQBR.md.png](https://iili.io/mkzQBR.md.png)](https://freeimage.host/i/mkzQBR)
+  
+[![mkIYYP.md.png](https://iili.io/mkIYYP.md.png)](https://freeimage.host/i/mkIYYP)
+  
 </div>
